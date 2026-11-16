@@ -1,5 +1,7 @@
 # opa-cigna-tf
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnetix/opa-cigna-tf)
+
 Vulnetix CLI-compatible OPA custom rules for Terraform IaC security checks, inspired by the [Cigna confectionery](https://github.com/cigna/confectionery) Terraform rules.
 
 ## Clean-room development
