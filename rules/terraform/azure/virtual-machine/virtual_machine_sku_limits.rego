@@ -1,6 +1,6 @@
 # Intent: VMs must use an approved SKU (size).
 # Reference: Cigna/confectionery VM SKU rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_vm_02
 

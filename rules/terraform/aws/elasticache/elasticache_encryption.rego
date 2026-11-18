@@ -1,6 +1,6 @@
 # Intent: ElastiCache replication groups must encrypt at rest and in transit.
 # Reference: Cigna/confectionery ElastiCache encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_ec_01
 

@@ -1,6 +1,6 @@
 # Intent: VPCs must have an associated flow log.
 # Reference: Cigna/confectionery VPC flow log rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_vpc_01
 

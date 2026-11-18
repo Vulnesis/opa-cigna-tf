@@ -1,6 +1,6 @@
 # Intent: CloudFront viewer TLS minimum must be TLSv1.2 or higher.
 # Reference: Cigna/confectionery CloudFront TLS rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_cf_01
 

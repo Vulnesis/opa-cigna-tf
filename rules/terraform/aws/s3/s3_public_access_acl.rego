@@ -1,6 +1,6 @@
 # Intent: S3 bucket ACLs must not be public or authenticated-read.
 # Reference: Cigna/confectionery S3 public ACL rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_s3_02
 

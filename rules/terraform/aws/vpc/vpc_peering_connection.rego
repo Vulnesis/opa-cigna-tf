@@ -1,6 +1,6 @@
 # Intent: VPC Peering Connections must not be created.
 # Reference: Cigna/confectionery VPC peering rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_vpc_03
 

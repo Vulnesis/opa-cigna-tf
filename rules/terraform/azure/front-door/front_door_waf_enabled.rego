@@ -1,6 +1,6 @@
 # Intent: Front Door frontend endpoints must attach a WAF policy.
 # Reference: Cigna/confectionery Front Door WAF rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_fd_02
 

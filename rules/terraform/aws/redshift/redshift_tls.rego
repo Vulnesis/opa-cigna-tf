@@ -1,6 +1,6 @@
 # Intent: Redshift parameter groups must enforce SSL.
 # Reference: Cigna/confectionery Redshift TLS rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rs_04
 

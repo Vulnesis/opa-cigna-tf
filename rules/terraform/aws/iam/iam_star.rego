@@ -1,6 +1,6 @@
 # Intent: IAM policies must list service actions, not service:* wildcards.
 # Reference: Cigna/confectionery IAM service star rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_iam_05
 

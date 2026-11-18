@@ -1,6 +1,6 @@
 # Intent: Cognitive Services must disable public network access.
 # Reference: Cigna/confectionery Cognitive Services public access rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_cog_03
 

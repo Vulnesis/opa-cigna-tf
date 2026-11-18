@@ -1,6 +1,6 @@
 # Intent: RDS backup retention must be at least 7 days.
 # Reference: Cigna/confectionery RDS retention rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rds_05
 

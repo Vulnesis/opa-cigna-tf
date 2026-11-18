@@ -1,6 +1,6 @@
 # Intent: Web Apps must require HTTPS.
 # Reference: Cigna/confectionery Web App HTTPS rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_wa_01
 

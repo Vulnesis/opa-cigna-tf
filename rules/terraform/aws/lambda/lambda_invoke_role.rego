@@ -1,6 +1,6 @@
 # Intent: Lambda functions must not reference a role that grants lambda:InvokeFunction.
 # Reference: Cigna/confectionery Lambda invoke role rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_lambda_01
 

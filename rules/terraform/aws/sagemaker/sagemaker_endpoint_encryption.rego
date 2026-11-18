@@ -1,6 +1,6 @@
 # Intent: SageMaker endpoints must be encrypted with a KMS key.
 # Reference: Cigna/confectionery SageMaker endpoint encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sm_01
 

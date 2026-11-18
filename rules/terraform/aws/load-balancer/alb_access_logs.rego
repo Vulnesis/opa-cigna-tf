@@ -1,6 +1,6 @@
 # Intent: Application load balancers must enable access logs.
 # Reference: Cigna/confectionery ALB access logs rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_elb_01
 

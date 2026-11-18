@@ -1,6 +1,6 @@
 # Intent: Application Gateway must have an attached WAF policy.
 # Reference: Cigna/confectionery Azure Application Gateway rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_agw_01
 

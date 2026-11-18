@@ -1,6 +1,6 @@
 # Intent: Public IPs must not be created.
 # Reference: Cigna/confectionery Public IP rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_pip_01
 

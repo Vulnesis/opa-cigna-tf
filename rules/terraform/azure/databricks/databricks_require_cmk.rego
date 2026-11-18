@@ -1,6 +1,6 @@
 # Intent: Databricks premium workspaces must enable customer-managed key encryption.
 # Reference: Cigna/confectionery Databricks CMK rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_dbx_01
 

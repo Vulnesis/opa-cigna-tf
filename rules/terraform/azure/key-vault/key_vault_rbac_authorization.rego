@@ -1,6 +1,6 @@
 # Intent: Key Vaults must enable RBAC authorization.
 # Reference: Cigna/confectionery Key Vault RBAC rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_kv_02
 

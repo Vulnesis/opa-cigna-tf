@@ -1,6 +1,6 @@
 # Intent: Storage accounts must disable public blob access.
 # Reference: Cigna/confectionery Storage public access rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_sa_01
 

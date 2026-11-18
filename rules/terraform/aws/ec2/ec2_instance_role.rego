@@ -1,6 +1,6 @@
 # Intent: EC2 instances must have an IAM instance profile for SSM/CloudWatch.
 # Reference: Cigna/confectionery EC2 instance role rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_ec2_01
 

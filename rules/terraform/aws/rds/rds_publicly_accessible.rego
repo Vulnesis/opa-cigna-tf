@@ -1,6 +1,6 @@
 # Intent: RDS instances must not be publicly accessible.
 # Reference: Cigna/confectionery RDS public access rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rds_04
 

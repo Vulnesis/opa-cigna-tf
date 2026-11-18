@@ -1,6 +1,6 @@
 # Intent: Classic ELB policies must not enable deprecated SSL/TLS protocols.
 # Reference: Cigna/confectionery Classic ELB SSL rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_elb_03
 

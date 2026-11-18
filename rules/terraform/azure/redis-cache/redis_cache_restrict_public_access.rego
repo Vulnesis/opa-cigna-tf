@@ -1,6 +1,6 @@
 # Intent: Redis Cache must disable public network access.
 # Reference: Cigna/confectionery Redis public access rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_redis_02
 

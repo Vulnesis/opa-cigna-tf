@@ -1,6 +1,6 @@
 # Intent: Security groups must not allow all ports.
 # Reference: Cigna/confectionery security group port range rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sg_02
 

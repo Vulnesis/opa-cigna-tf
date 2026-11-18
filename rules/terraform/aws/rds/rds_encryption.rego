@@ -1,6 +1,6 @@
 # Intent: RDS instances and clusters must encrypt storage with a KMS CMK.
 # Reference: Cigna/confectionery RDS encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rds_02
 

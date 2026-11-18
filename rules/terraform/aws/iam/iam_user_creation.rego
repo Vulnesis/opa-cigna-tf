@@ -1,6 +1,6 @@
 # Intent: IAM users must not be declared in Terraform.
 # Reference: Cigna/confectionery IAM user creation rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_iam_07
 

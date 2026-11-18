@@ -1,6 +1,6 @@
 # Intent: Security group ingress from 0.0.0.0/0 must be limited to port 80 or 443.
 # Reference: Cigna/confectionery security group ingress rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sg_01
 

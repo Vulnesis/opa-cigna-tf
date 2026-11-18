@@ -1,6 +1,6 @@
 # Intent: Log Analytics Workspaces must disable internet queries.
 # Reference: Cigna/confectionery Log Analytics internet queries rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_la_01
 

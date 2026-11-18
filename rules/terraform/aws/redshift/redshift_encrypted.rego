@@ -1,6 +1,6 @@
 # Intent: Redshift clusters must be encrypted at rest.
 # Reference: Cigna/confectionery Redshift encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rs_01
 

@@ -1,6 +1,6 @@
 # Intent: Cognitive Services must be encrypted with a customer-managed key.
 # Reference: Cigna/confectionery Cognitive Services CMK rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_cog_01
 

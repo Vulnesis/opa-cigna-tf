@@ -1,6 +1,6 @@
 # Intent: RDS DB instances must enable Multi-AZ.
 # Reference: Cigna/confectionery RDS Multi-AZ rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rds_03
 

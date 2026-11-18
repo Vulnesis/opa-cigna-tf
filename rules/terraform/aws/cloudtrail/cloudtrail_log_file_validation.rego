@@ -1,6 +1,6 @@
 # Intent: CloudTrail must enable log file validation for tamper detection.
 # Reference: Cigna/confectionery CloudTrail log file validation rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_ct_02
 

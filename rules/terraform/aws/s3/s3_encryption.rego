@@ -1,6 +1,6 @@
 # Intent: S3 buckets must configure server-side encryption with AES256 or aws:kms.
 # Reference: Cigna/confectionery S3 encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_s3_01
 

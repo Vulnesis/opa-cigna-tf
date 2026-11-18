@@ -1,6 +1,6 @@
 # Intent: S3 bucket policies must not grant wildcard principals without conditions.
 # Reference: Cigna/confectionery S3 public policy rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_s3_03
 

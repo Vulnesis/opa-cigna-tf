@@ -1,6 +1,6 @@
 # Intent: IAM policies must not grant full administrative permissions.
 # Reference: Cigna/confectionery IAM admin policy rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_iam_01
 

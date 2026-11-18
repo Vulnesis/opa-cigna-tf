@@ -1,16 +1,16 @@
 # opa-cigna-tf
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnetix/opa-cigna-tf)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnesis/opa-cigna-tf)
 
-Vulnetix CLI-compatible OPA custom rules for Terraform IaC security checks, inspired by the [Cigna confectionery](https://github.com/cigna/confectionery) Terraform rules.
+Vulnesis CLI-compatible OPA custom rules for Terraform IaC security checks, inspired by the [Cigna confectionery](https://github.com/cigna/confectionery) Terraform rules.
 
 ## Clean-room development
 
-These rules were produced using a **clean-room approach**. The original Cigna confectionery rules were consulted only to understand the *intent* of each security check. All Rego implementations were then written independently from scratch, targeting the Vulnetix CLI's text-scanning input model (`input.file_contents`) rather than any upstream parsing or evaluation framework.
+These rules were produced using a **clean-room approach**. The original Cigna confectionery rules were consulted only to understand the *intent* of each security check. All Rego implementations were then written independently from scratch, targeting the Vulnesis CLI's text-scanning input model (`input.file_contents`) rather than any upstream parsing or evaluation framework.
 
 Key differences from the upstream Cigna confectionery implementations:
 
-- **Input model**: Vulnetix provides raw file contents as `input.file_contents` (a map of file path to file text). Rules scan this text directly using regex and string operations.
+- **Input model**: Vulnesis provides raw file contents as `input.file_contents` (a map of file path to file text). Rules scan this text directly using regex and string operations.
 - **Resource parsing**: Terraform HCL blocks are parsed via a shared regex-based helper library (`data.vulnetix.cigna_tf.helpers`), not through a structured HCL AST.
 - **Line numbers**: Finding `start_line` is computed from byte offsets (`helpers.line_of`), providing accurate source locations instead of hardcoded values.
 - **No variable resolution**: Rules scan the literal text of `.tf` files. References to Terraform variables, locals, or data sources are not resolved — the rule matches only what is explicitly declared in the source.
@@ -168,16 +168,16 @@ opa-cigna-tf/
 └── README.md
 ```
 
-All `.rego` files live under `rules/` so the Vulnetix CLI can discover and load them automatically.
+All `.rego` files live under `rules/` so the Vulnesis CLI can discover and load them automatically.
 
 ## Usage
 
 ```bash
 # Use alongside built-in rules
-vulnetix scan --rule Vulnetix/opa-cigna-tf
+vulnesis scan --rule Vulnesis/opa-cigna-tf
 
 # Use only these custom rules (no built-ins)
-vulnetix scan --rule Vulnetix/opa-cigna-tf --disable-default-rules
+vulnesis scan --rule Vulnesis/opa-cigna-tf --disable-default-rules
 ```
 
 ## Limitations

@@ -1,6 +1,6 @@
 # Intent: RDS instances must enable auto minor version upgrades.
 # Reference: Cigna/confectionery RDS auto minor version upgrade rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rds_01
 

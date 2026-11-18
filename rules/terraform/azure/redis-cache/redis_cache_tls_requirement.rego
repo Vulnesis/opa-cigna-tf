@@ -1,6 +1,6 @@
 # Intent: Redis Cache must use TLS 1.2 or higher.
 # Reference: Cigna/confectionery Redis TLS rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_redis_03
 

@@ -1,6 +1,6 @@
 # Intent: API Gateway REST APIs should be attached to a custom domain via base-path mapping.
 # Reference: Cigna/confectionery API Gateway custom domain rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_apigw_01
 

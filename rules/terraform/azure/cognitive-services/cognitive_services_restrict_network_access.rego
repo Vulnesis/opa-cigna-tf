@@ -1,6 +1,6 @@
 # Intent: Cognitive Services must set network_acls default_action = Deny.
 # Reference: Cigna/confectionery Cognitive Services network rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_az_cog_04
 

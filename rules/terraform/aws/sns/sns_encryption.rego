@@ -1,6 +1,6 @@
 # Intent: SNS topics must configure server-side encryption.
 # Reference: Cigna/confectionery SNS encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sns_01
 

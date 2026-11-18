@@ -1,6 +1,6 @@
 # Intent: CloudTrail trails should not be created in application accounts (managed centrally).
 # Reference: Cigna/confectionery CloudTrail creation rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_ct_01
 

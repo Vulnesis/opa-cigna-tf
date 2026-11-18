@@ -1,6 +1,6 @@
 # Intent: SQS queues must enable server-side encryption.
 # Reference: Cigna/confectionery SQS encryption rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sqs_02
 

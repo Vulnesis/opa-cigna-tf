@@ -1,6 +1,6 @@
 # Intent: KMS keys must have rotation enabled.
 # Reference: Cigna/confectionery KMS rotation rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_kms_01
 

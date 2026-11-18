@@ -1,6 +1,6 @@
 # Intent: SageMaker notebook instances must disable direct internet access.
 # Reference: Cigna/confectionery SageMaker internet access rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sm_03
 

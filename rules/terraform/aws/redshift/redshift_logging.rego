@@ -1,6 +1,6 @@
 # Intent: Redshift clusters must enable audit logging.
 # Reference: Cigna/confectionery Redshift logging rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_rs_02
 

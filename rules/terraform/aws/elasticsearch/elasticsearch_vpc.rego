@@ -1,6 +1,6 @@
 # Intent: Elasticsearch domains must be deployed inside a VPC.
 # Reference: Cigna/confectionery Elasticsearch VPC rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_es_01
 

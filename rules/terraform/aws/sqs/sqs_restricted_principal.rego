@@ -1,6 +1,6 @@
 # Intent: SQS queue policies must not grant wildcard Principal without Condition.
 # Reference: Cigna/confectionery SQS restricted principal rule.
-# Clean-room implementation for the Vulnetix CLI input model.
+# Clean-room implementation for the Vulnesis CLI input model.
 
 package vulnetix.rules.cigna_tf_aws_sqs_01
 
