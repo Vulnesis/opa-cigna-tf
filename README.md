@@ -1,6 +1,6 @@
 # opa-cigna-tf
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnetix/opa-cigna-tf)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Vulnesis/opa-cigna-tf)
 
 Vulnesis CLI-compatible OPA custom rules for Terraform IaC security checks, inspired by the [Cigna confectionery](https://github.com/cigna/confectionery) Terraform rules.
 
@@ -174,10 +174,10 @@ All `.rego` files live under `rules/` so the Vulnesis CLI can discover and load 
 
 ```bash
 # Use alongside built-in rules
-vulnesis scan --rule Vulnesis/opa-cigna-tf
+vulnetix scan --rule Vulnesis/opa-cigna-tf
 
 # Use only these custom rules (no built-ins)
-vulnesis scan --rule Vulnesis/opa-cigna-tf --disable-default-rules
+vulnetix scan --rule Vulnesis/opa-cigna-tf --disable-default-rules
 ```
 
 ## Limitations
